@@ -10,8 +10,7 @@
 
 
 
-## 💾 Repository
-✔ BOJ Algorithm
+##  BOJ Algorithm
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=twinklesu14)](https://solved.ac/twinklesu14)
 
