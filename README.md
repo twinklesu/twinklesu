@@ -1,29 +1,19 @@
 ## Hi there 👋🏻
-
-<center>
   
 [![Twinklesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=twinklesu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
-</center>
 
 
 ## 🐥👩🏻‍💻🐥 Experience
 
-<center>
-  
 1. Majoring ITM in Seoultech (2018 - ing) <br>
 2. KUSITMS 22' (2020.08 - 2020.12)
-  
-</center>
 
 
 ##  BOJ Algorithm
-
-<center>
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=twinklesu14)](https://solved.ac/twinklesu14)
   
-</center>
 
 
 
