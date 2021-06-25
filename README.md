@@ -8,6 +8,7 @@
 
 1. Majoring ITM in Seoultech (2018 - ing) <br>
 2. KUSITMS 22' (2020.08 - 2020.12)
+3. Google DSC Seoultech Lead (2021.06 - ing)
 
 
 ##  BOJ Algorithm
