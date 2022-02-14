@@ -2,7 +2,8 @@
   
 [![Twinklesu's GitHub stats](https://github-readme-stats.vercel.app/api?username=twinklesu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
   
-
+## 🔥 Curriculum Vitae
+[click here!](https://twinklesu.notion.site/online-CV-c242997949bf472d87757a42e229de8b)
 
 ## 🐥👩🏻‍💻🐥 Experience
 
