@@ -7,9 +7,10 @@
 
 ## 🐥👩🏻‍💻🐥 Experience
 
-1. Majoring ITM in Seoultech (2018 - ing) <br>
+1. Majoring ITM in Seoultech (2018 - ) <br>
 2. KUSITMS 22' (2020.08 - 2020.12)
-3. Google DSC Seoultech Lead (2021.08 - ing)
+3. Google DSC Seoultech Lead (2021.08 - 2022.08)
+4. Undergrduate Researcher of NMSL, KAIST (2022.06 - )
 
 
 ##  BOJ Algorithm
