@@ -11,7 +11,7 @@
 2. KUSITMS 22' (2020.08 - 2020.12)
 3. Google DSC Seoultech Lead (2021.08 - 2022.08)
 4. Undergraduate Researcher of NMSL, KAIST (2022.06 - 2023.02)
-5. Master student in NMSL, KASIT (2023.03 - )
+5. Master student at [NMSL](https://nmsl.kaist.ac.kr), KAIST (2023.03 - )
 
 
 ##  BOJ Algorithm
