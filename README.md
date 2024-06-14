@@ -1,8 +1,5 @@
 ## Hi there 👋🏻
 
-## 🔥 Curriculum Vitae
-[click here!](https://twinklesu.notion.site/online-CV-c242997949bf472d87757a42e229de8b)
-
 ## 🐥👩🏻‍💻🐥 Experience
 
 1. Majoring ITM in Seoultech (2018 - 2023) <br>
